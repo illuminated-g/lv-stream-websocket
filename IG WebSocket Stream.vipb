@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-02-06 15:57:40" Modified_Date="2022-04-13 18:02:28" Creator="Localization Tester" Comments="" ID="1d95977bace2d76be5ad6c7e1a1f97f1">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-02-06 15:57:40" Modified_Date="2022-05-31 16:36:36" Creator="Localization Tester" Comments="" ID="4847c6df1612da7aa370af50766d58b2">
   <Library_General_Settings>
     <Package_File_Name>IlluminatedG_lib_IG_WebSocket_Stream</Package_File_Name>
-    <Library_Version>1.0.0.5</Library_Version>
+    <Library_Version>1.0.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build\vip</Library_Output_Folder>
@@ -17,11 +17,11 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <External_Dependencies>illuminatedg_lib_ig_http_utils &gt;= 1.0.0.24</External_Dependencies>
-      <External_Dependencies>illuminatedg_lib_ig_stream_base &gt;= 1.1.0.32</External_Dependencies>
+      <External_Dependencies>illuminatedg_lib_ig_http_utils &gt;= 1.0.0.43</External_Dependencies>
+      <External_Dependencies>illuminatedg_lib_ig_stream_base &gt;= 1.1.0.34</External_Dependencies>
       <External_Dependencies>illuminatedg_lib_ig_web&amp;crypto &gt;= 0.1.0.9</External_Dependencies>
-      <Direct_Dependencies>illuminatedg_lib_ig_http_utils-1.0.0.24</Direct_Dependencies>
-      <Direct_Dependencies>illuminatedg_lib_ig_stream_base-1.1.0.32</Direct_Dependencies>
+      <Direct_Dependencies>illuminatedg_lib_ig_http_utils-1.0.0.43</Direct_Dependencies>
+      <Direct_Dependencies>illuminatedg_lib_ig_stream_base-1.1.0.34</Direct_Dependencies>
       <Direct_Dependencies>illuminatedg_lib_ig_web&amp;crypto-0.1.0.9</Direct_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
@@ -221,7 +221,7 @@
         <Path>Stream-Websocket</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7AF79236109A73D073A47DFDFDEB63DD</GUID>
+      <GUID>3105EB4FEDFDB7CD1116CC4CE494619D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -326,7 +326,7 @@
         <Path>Stream-Websocket\Prepare WebSocket Upgrade Response.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E8B9D04DBA18795DD75A966C7C2BE280</GUID>
+      <GUID>6F8B4C7F1BED1F18FB6BE09317C8FFBA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -613,7 +613,7 @@
         <Path>Stream-Websocket\Websocket Client\Wait for Disconnect.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>09D0DE6F2398F7AE59EB98E4F1409E16</GUID>
+      <GUID>EE75FB4A53EB77AAC17FEA21266E8CE0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -858,7 +858,7 @@
         <Path>Stream-Websocket\Websocket Server\Wait on Server Loop.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9B5644385238F1199A3AFAFD593E823E</GUID>
+      <GUID>56392E08A6ABB32695EA6A508D89E3EE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -935,7 +935,7 @@
         <Path>Stream-Websocket\WebsocketStream\Is Connected.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>13B44EE4B1DDF89E591142816FBD097D</GUID>
+      <GUID>979E76D6B03A20C0FE1D5FCFE589FABF</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
