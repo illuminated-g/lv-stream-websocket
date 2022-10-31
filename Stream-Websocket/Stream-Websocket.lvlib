@@ -35,7 +35,9 @@
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Data Types" Type="Folder">
 		<Item Name="JSON Message.ctl" Type="VI" URL="../JSON Message.ctl"/>
+		<Item Name="Payload Limits.ctl" Type="VI" URL="../Payload Limits.ctl"/>
 	</Item>
+	<Item Name="Interfaces" Type="Folder"/>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Client Command.ctl" Type="VI" URL="../Client Command.ctl"/>
@@ -43,6 +45,9 @@
 		<Item Name="Listener Status.ctl" Type="VI" URL="../Listener Status.ctl"/>
 		<Item Name="Message Frame.ctl" Type="VI" URL="../Message Frame.ctl"/>
 		<Item Name="OpCode.ctl" Type="VI" URL="../OpCode.ctl"/>
+	</Item>
+	<Item Name="Support" Type="Folder">
+		<Item Name="WebSocketUpgradeResponse.lvclass" Type="LVClass" URL="../WebSocketUpgradeResponse/WebSocketUpgradeResponse.lvclass"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="Check is Upgrade Request.vi" Type="VI" URL="../Check is Upgrade Request.vi"/>
@@ -52,5 +57,4 @@
 	<Item Name="Websocket Client.lvclass" Type="LVClass" URL="../Websocket Client/Websocket Client.lvclass"/>
 	<Item Name="Websocket Server.lvclass" Type="LVClass" URL="../Websocket Server/Websocket Server.lvclass"/>
 	<Item Name="WebsocketStream.lvclass" Type="LVClass" URL="../WebsocketStream/WebsocketStream.lvclass"/>
-	<Item Name="WebSocketUpgradeResponse.lvclass" Type="LVClass" URL="../WebSocketUpgradeResponse/WebSocketUpgradeResponse.lvclass"/>
 </Library>

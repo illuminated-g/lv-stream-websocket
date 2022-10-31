@@ -11,6 +11,12 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Test" Type="Folder">
+			<Item Name="Send Test Number.vi" Type="VI" URL="../Test/Send Test Number.vi"/>
+			<Item Name="Test Connection Callback.vi" Type="VI" URL="../Test/Test Connection Callback.vi"/>
+			<Item Name="Test Streams FG.vi" Type="VI" URL="../Test/Test Streams FG.vi"/>
+			<Item Name="Test WS Server.vi" Type="VI" URL="../Test/Test WS Server.vi"/>
+		</Item>
 		<Item Name="Stream-Websocket.lvlib" Type="Library" URL="../Stream-Websocket/Stream-Websocket.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
