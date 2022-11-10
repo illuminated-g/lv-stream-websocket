@@ -9,7 +9,9 @@
 	<Property Name="Database Path" Type="Str">C:\Program Files (x86)\National Instruments\LabVIEW 2020\data</Property>
 	<Property Name="Enable Alarms Logging" Type="Bool">true</Property>
 	<Property Name="Enable Data Logging" Type="Bool">true</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)&lt;!!!*Q(C=\&gt;3R=3*"%)8B&gt;V&gt;HH%M'6[41.BYJE%+HA#O4&amp;$I&amp;5C#&amp;FQ)JE-,IX['VS"+/6+7KUYY'W,=T0:^GNV;;RV`JD];T9`@B=2^Q(T1?Q6MU4]?\[WOZ0FGPT^_\R]&gt;M9`?YP.;Z@YVVTHC&lt;/]&lt;K?=R[ZN@0]80]X]@,MV@!VR._;8E2U5UP?N*$S^,$Z#9XO=F.&lt;P)C,`)C,`)C,`)E4`)E4`)E4`)A$`)A$`)A$`,:S%5O=J&amp;$-IO&lt;B5R25]!-BC,T94T'9TT'Q[G-RXC-RXC-BS%S(O-R(O-R(K&lt;*?)T(?)T(?#AV*:[.()`R5&amp;[&amp;J`!5HM*4?&amp;B3B;=!&amp;)M6B9MC-&amp;2=,(Y5HM*4?0CJQF.Y#E`B+4R=6O%J0)7H]"1?JMR&gt;K;F:'DE?SCDR**\%EXA3$[76?"*0YEE]C9@FF(A34Y*)&amp;ES+1V!S+2G1H#3?R-/8%E`C34S**`&amp;Q;&gt;[BH$OT;*:'DC@Q"*\!%XA#$S55?!*0Y!E]A9?S#DS"*`!%HM$$5AI]A3@Q"*"A5::85#S9'!Q+AM$$XXR;9N[FGJ+94?K(6`V1KB]W^5/E@DD5.VV^-^5X3&lt;XZ[EV6&lt;Z:[%^4`H"KNRKA855^?"OL'ZZ6_I:`J*`K2@K$P[6P[:JH[S1.PNZOOV[MOFYP/Z\./JZ//R[-/BY0W_\WWW[UWG]X['PB(7V])X_'^^#U-P`6_(@&lt;I&amp;3:,48!!!!!!</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">Stream-Websocket</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
