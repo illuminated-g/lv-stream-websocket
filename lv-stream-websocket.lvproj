@@ -17,6 +17,7 @@
 			<Item Name="WebSocket Stream Class.ctl" Type="VI" URL="../Palettes/WebSocket Stream Class.ctl"/>
 		</Item>
 		<Item Name="Test" Type="Folder">
+			<Item Name="Test External TCP.vi" Type="VI" URL="../Test/Test External TCP.vi"/>
 			<Item Name="Test WS Server.vi" Type="VI" URL="../Test/Test WS Server.vi"/>
 			<Item Name="Test WSS Server.vi" Type="VI" URL="../Test/Test WSS Server.vi"/>
 		</Item>
