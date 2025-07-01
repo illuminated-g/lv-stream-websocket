@@ -1,0 +1,10 @@
+{
+  "Info":{
+    "Name":"git:lv-stream-websocket",
+    "Type":"git",
+    "Source":"git@github.com:illuminated-g/lv-stream-websocket.git",
+    "Branch":"main",
+    "Version":"cabf154da55ba546210e41cfe21ef0880593ab97"
+  },
+  "Dependencies":[]
+}
